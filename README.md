@@ -1,3 +1,1 @@
-This is my attempt at automating things.
-WARNING:
-Beginner
+Do not pay attention to this repository
